@@ -1,79 +1,65 @@
-<div align="center">
+## Hey 👋, I'm Sara Vidal  
+  
 
-# Hi 👋, I'm Sara Vidal
+<a href="https://github.com/saravigon" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vidal-gonzalez-sara" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+  
 
-### Computer Science Student @UPC
 
-</div>
 
-## 🚀 About Me
+### 🚀 About Me  
+I'm a 3rd-year student at UPC - FIB, specializing in the Computer Science track.
 
-Hi! I'm a 3rd-year student at UPC - FIB, specializing in the Computer Science
-track.
+I am passionate about understanding how things work under the hood. My focus lies in Algorithms, Data Structures and Complexity. I enjoy solving challeges problems and optimizing code.
+  
+  
 
-I am passionate about understanding how things work under the hood. My focus
-lies in Algorithms, Data Structures and Complexity. I enjoy solvng challeges
-problems and optimizing code.
+- 🔭 I'm currently working on Mastering Data Structures  
+  
 
-## 💼 Current Work
+- 👯 I'm looking to collaborate on AI or Computer Vision projects  
+  
 
-<div align="left">
+- 🌱 I'm currently deepening my understanding of Advanced Algorithmics and Computational Complexity. I'm also exploring Artificial Intelligence fundamentals (Machine Learning).  
+  
 
-- 🔭 I'm currently working on **Mastering Data Structures**
-- 👯 I'm looking to collaborate on **AI or Computer Vision projects**
+- 🐍 Python is great, but C++ has my heart.  
+  
 
-</div>
+<br/>  
 
-## 📚 Learning & Knowledge
 
-<div align="left">
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
+<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
+<a href="https://www.haskell.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/haskell.png" alt="Haskell" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+</div>  
 
-- 🌱 I'm currently learning **I am currently deepening my understanding of
-  Advanced Algorithmics and Computational Complexity to solve hard problems
-  efficiently. I'm also exploring Artificial Intelligence fundamentals (Machine
-  Learning) and studying Computer Graphics (OpenGL) to better understand
-  rendering pipelines.**
+<br/>  
 
-</div>
+  
 
-## 📞 Contact & Links
+<br/>  
 
-<div align="left">
+  
 
-- 📫 How to reach me **vidalgonzalezsara@gmail.com**
+<br/>  
 
-</div>
 
-## 🛠️ Skills & Technologies
+<br />
 
-### 💻 Programming Languages
-
-<img src="https://cdn.simpleicons.org/cplusplus/00599C?size=32" alt="C++"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/java/007396?size=32" alt="Java"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/haskell/5D4F85?size=32" alt="Haskell"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/c/A8B9CC?size=32" alt="C"  />
-
-### 💻 Database
-
-<img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL"  />
-
-### 💻 Software
-
-<img src="https://cdn.simpleicons.org/matlab/0076A8?size=32" alt="MATLAB"  />
-
-### 💻 Other
-
-<img src="https://cdn.simpleicons.org/linux/FCC624?size=32" alt="Linux"  />
-
-### 💻 Frontend Development
-
-<img src="https://cdn.simpleicons.org/qt/41CD52?size=32" alt="Qt"  />
-
----
-
-<div align="center">
-
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
-
-</div>
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
