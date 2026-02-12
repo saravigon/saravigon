@@ -15,20 +15,6 @@
 I'm a 3rd-year student at UPC - FIB, specializing in the Computer Science track.
 
 I am passionate about understanding how things work under the hood. My focus lies in Algorithms, Data Structures and Complexity. I enjoy solving challeges problems and optimizing code.
-  
-  
-
-- 🔭 I'm currently working on Mastering Data Structures  
-  
-
-- 👯 I'm looking to collaborate on AI or Computer Vision projects  
-  
-
-- 🌱 I'm currently deepening my understanding of Advanced Algorithmics and Computational Complexity. I'm also exploring Artificial Intelligence fundamentals (Machine Learning).  
-  
-
-- 🐍 Python is great, but C++ has my heart.  
-  
 
 <br/>  
 
